@@ -1,0 +1,6 @@
+numpy==1.14.3
+matplotlib==2.2.2
+tifffile==2016.4.19
+pandas==0.23.0
+lmfit==0.9.5
+ipython==5.7.0
