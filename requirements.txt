@@ -3,4 +3,4 @@ matplotlib==2.2.2
 tifffile==2018.10.18
 pandas==0.23.0
 lmfit==0.9.5
-ipython==5.7.0
+ipython==7.16.3
